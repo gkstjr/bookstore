@@ -25,10 +25,11 @@
 
 ## ⚙️ 개발 환경
 - `Java 11`
-- **IDE** : STS 3.9
-- **Framework** : Springboot(2.x)
-- **Database** : Oracle DB(11xe)
+- **IDE** : STS 
+- **Framework** : Spring
+- **Database** : Oracle DB
 - **ORM** : Mybatis
+- HTML , CSS , Javascript , Github
 <br>
 
 
