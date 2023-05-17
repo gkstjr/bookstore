@@ -64,8 +64,8 @@
 
 ## ⚙️ ERD 
 
-<img src="https://github.com/gkstjr/bookstore/assets/99389922/0068e505-4be4-4f71-8e74-39d52fe0f163" width="500" height="500"/>
-<img src="https://github.com/gkstjr/bookstore/assets/99389922/97703b72-43c0-4129-b0a4-951f43426ab1" width="500" height="500"/>
+<img src="https://github.com/gkstjr/bookstore/assets/99389922/0068e505-4be4-4f71-8e74-39d52fe0f163" width="1000" height="500"/>
+<img src="https://github.com/gkstjr/bookstore/assets/99389922/97703b72-43c0-4129-b0a4-951f43426ab1" width="1000" height="500"/>
 <br>
-<img src="https://github.com/gkstjr/bookstore/assets/99389922/9c4de980-d7dd-4f82-884e-43b418668957" width="500" height="500"/>
+<img src="https://github.com/gkstjr/bookstore/assets/99389922/9c4de980-d7dd-4f82-884e-43b418668957" width="1000" height="500"/>
 
