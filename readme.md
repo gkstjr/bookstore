@@ -5,9 +5,9 @@
 
 - 관리자는 ISBN을 이용해 공공 데이터에 등록된 책을 판매도서에 등록할 수 있으며, 사용자는 중고도서와 신상품 도서를 함꼐 결제 가능하다.<br>
 
-- 사이트 주소 : http://sysout.co.kr/bookstore/ 
-- 테스트 아이디 : testuser / Qwer!234
-- 관리자 테스트 아이디 : admin0001 / Qwer!234
+  사이트 주소 : http://sysout.co.kr/bookstore/  <br>
+  테스트 아이디 : testuser / Qwer!234     <br>
+  관리자 테스트 아이디 : admin0001 / Qwer!234
 
 <br>
 
